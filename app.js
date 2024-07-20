@@ -1,3 +1,3 @@
 function testAlert() {
-    alert("Test connection to App.js")
+    alert("Test connection to App.js");
 }
